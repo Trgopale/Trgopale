@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-- 👋 Hi, Tushar Gopale here.<br>- 👀 1 years experience & I’m interested in Design & React.js<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'goplaetushar5@gmail.com' , mobile: '9699283024' }<br>- ⭐ Github Profile - https://github.com/Trgopale<br>- 🌃 Computer Application Student<br>- 🐱‍ Intrested in learning latest technologies. 
+- 👋 Hi, Tushar Gopale here.<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'goplaetushar5@gmail.com' , mobile: '9699283024' }<br>- ⭐ Github Profile - https://github.com/Trgopale<br>- 🌃 Computer Application Student<br>- 🐱‍ Intrested in learning latest technologies. 
 
 
 
@@ -18,7 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/ANT-ESPORTS-blue)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Trgopale&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohit-shinde-26&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=trgopale&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-shinde-26&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
